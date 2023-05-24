@@ -1,7 +1,8 @@
 # simpleCPUmonitor
-A simple CPU monitor using Pandas and Matplot that provides live data
+A simple CPU monitor using Pandas and Matplot that provides live data<br>
 
-<img width="605" alt="simpleCPUmonitor" src="https://github.com/offwhitepanda/simpleCPUmonitor/assets/117415145/c9f1cdcf-da45-4c34-89c4-475f2b1a0f32">
+Note - The speed of this image does not reflect the speed of the monitor.
+<img src="https://github.com/offwhitepanda/simpleCPUmonitor/assets/117415145/d66a9063-23d0-40d7-99d9-ba5f94031867">
 
 
 #### If you are using Windows and do not have Python set up the following may help:
